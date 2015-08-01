@@ -13,6 +13,10 @@
 		9B0EDB461B69BD7000944E58 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDB451B69BD7000944E58 /* Images.xcassets */; };
 		9B0EDB491B69BD7000944E58 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDB471B69BD7000944E58 /* LaunchScreen.xib */; };
 		9B0EDB551B69BD7000944E58 /* BaijieAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDB541B69BD7000944E58 /* BaijieAppTests.swift */; };
+		9B0EDB5F1B69E02900944E58 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDB5E1B69E02900944E58 /* LoginViewController.swift */; };
+		9B0EDB611B69F08400944E58 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDB601B69F08400944E58 /* SignupViewController.swift */; };
+		9B0EDB631B6C48E600944E58 /* RestApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDB621B6C48E600944E58 /* RestApiManager.swift */; };
+		9B0EDB671B6C661E00944E58 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDB661B6C661E00944E58 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +40,10 @@
 		9B0EDB4E1B69BD7000944E58 /* BaijieAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BaijieAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B0EDB531B69BD7000944E58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9B0EDB541B69BD7000944E58 /* BaijieAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaijieAppTests.swift; sourceTree = "<group>"; };
+		9B0EDB5E1B69E02900944E58 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		9B0EDB601B69F08400944E58 /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
+		9B0EDB621B6C48E600944E58 /* RestApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestApiManager.swift; sourceTree = "<group>"; };
+		9B0EDB661B6C661E00944E58 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,11 +86,15 @@
 			isa = PBXGroup;
 			children = (
 				9B0EDB3E1B69BD7000944E58 /* AppDelegate.swift */,
+				9B0EDB661B6C661E00944E58 /* SwiftyJSON.swift */,
 				9B0EDB401B69BD7000944E58 /* ViewController.swift */,
 				9B0EDB421B69BD7000944E58 /* Main.storyboard */,
 				9B0EDB451B69BD7000944E58 /* Images.xcassets */,
 				9B0EDB471B69BD7000944E58 /* LaunchScreen.xib */,
 				9B0EDB3C1B69BD7000944E58 /* Supporting Files */,
+				9B0EDB5E1B69E02900944E58 /* LoginViewController.swift */,
+				9B0EDB601B69F08400944E58 /* SignupViewController.swift */,
+				9B0EDB621B6C48E600944E58 /* RestApiManager.swift */,
 			);
 			path = BaijieApp;
 			sourceTree = "<group>";
@@ -212,7 +224,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B0EDB5F1B69E02900944E58 /* LoginViewController.swift in Sources */,
 				9B0EDB411B69BD7000944E58 /* ViewController.swift in Sources */,
+				9B0EDB611B69F08400944E58 /* SignupViewController.swift in Sources */,
+				9B0EDB671B6C661E00944E58 /* SwiftyJSON.swift in Sources */,
+				9B0EDB631B6C48E600944E58 /* RestApiManager.swift in Sources */,
 				9B0EDB3F1B69BD7000944E58 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -343,6 +359,7 @@
 				INFOPLIST_FILE = BaijieApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -353,6 +370,7 @@
 				INFOPLIST_FILE = BaijieApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -409,6 +427,7 @@
 				9B0EDB5A1B69BD7000944E58 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9B0EDB5B1B69BD7000944E58 /* Build configuration list for PBXNativeTarget "BaijieAppTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +436,7 @@
 				9B0EDB5D1B69BD7000944E58 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
