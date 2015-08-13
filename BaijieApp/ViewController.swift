@@ -21,17 +21,14 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+        
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(true)
         
-        RestApiManager.sharedInstance.getUserMetaData{json in
-            let results = json
-            
-            println(results)
-            
+        getUserMetaData{json in
+            println("Connected server")
         }
         
-        println("test log to console")
         
         let prefs:NSUserDefaults = NSUserDefaults.standardUserDefaults()
         let isLoggedIn:Int = prefs.integerForKey("ISLOGGEDIN") as Int
@@ -45,7 +42,19 @@ class ViewController: UIViewController {
     }
 
     @IBAction func logoutTapped(sender: UIButton) {
+        let appDomain = NSBundle.mainBundle().bundleIdentifier
+        NSUserDefaults.standardUserDefaults().removePersistentDomainForName(appDomain!)
+        
         self.performSegueWithIdentifier("goto_login", sender: self)
+    }
+    
+    func getUserMetaData(onCompletion: (JSON)-> Void){
+        let route = "core/userService"
+        
+        RestApiManager.sharedInstance.makeHTTPGetRequest(route, onCompletion: {json, statusCode, error in
+            onCompletion(json as JSON)
+        })
+        
     }
 }
 

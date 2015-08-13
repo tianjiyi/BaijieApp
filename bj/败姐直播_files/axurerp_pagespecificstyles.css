@@ -1,0 +1,246 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:667px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:667px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:326px;
+    width:371px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u2 {
+    position:absolute;
+    left:0px;
+    top:26px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u3 {
+    position:absolute;
+    left:60px;
+    top:26px;
+    width:79px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u4 {
+    position:absolute;
+    left:260px;
+    top:26px;
+    width:81px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u5 {
+    position:absolute;
+    left:0px;
+    top:76px;
+    width:375px;
+    height:374px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u6 {
+    position:absolute;
+    left:89px;
+    top:617px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u7 {
+    position:absolute;
+    left:15px;
+    top:617px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u8 {
+    position:absolute;
+    left:162px;
+    top:592px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u9 {
+    position:absolute;
+    left:235px;
+    top:610px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u10 {
+    position:absolute;
+    left:309px;
+    top:610px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u11 {
+    position:absolute;
+    left:316px;
+    top:450px;
+    width:53px;
+    height:43px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u12 {
+    position:absolute;
+    left:405px;
+    top:450px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../败姐直播_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:578px;
+    top:458px;
+    width:116px;
+    height:28px;
+}
+
+#u13_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:116px;
+    height:28px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:454px;
+    top:136px;
+    width:280px;
+    height:72px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

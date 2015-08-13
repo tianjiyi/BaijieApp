@@ -17,6 +17,22 @@
 		9B0EDB611B69F08400944E58 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDB601B69F08400944E58 /* SignupViewController.swift */; };
 		9B0EDB631B6C48E600944E58 /* RestApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDB621B6C48E600944E58 /* RestApiManager.swift */; };
 		9B0EDB671B6C661E00944E58 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDB661B6C661E00944E58 /* SwiftyJSON.swift */; };
+		9B0EDFB11B6EC45000944E58 /* u0_normal_login.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDFB01B6EC45000944E58 /* u0_normal_login.jpg */; };
+		9B0EDFB31B6EC84200944E58 /* u1_normal_login_input.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDFB21B6EC84200944E58 /* u1_normal_login_input.png */; };
+		9B0EDFB51B6EC93100944E58 /* u0_normal_signup.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDFB41B6EC93100944E58 /* u0_normal_signup.png */; };
+		9B0EDFB71B6EE56900944E58 /* CountryPickerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDFB61B6EE56900944E58 /* CountryPickerController.swift */; };
+		9B0EDFB91B6F47F800944E58 /* LoginMainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDFB81B6F47F800944E58 /* LoginMainController.swift */; };
+		9B0EDFBD1B7169DE00944E58 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EDFBC1B7169DE00944E58 /* MainTabBarController.swift */; };
+		9B0EDFC71B71752900944E58 /* u3_normal main_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDFC61B71752900944E58 /* u3_normal main_icon.png */; };
+		9B0EDFC91B71779200944E58 /* home-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDFC81B71779200944E58 /* home-7.png */; };
+		9B0EDFCB1B7177F800944E58 /* crown-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDFCA1B7177F800944E58 /* crown-7.png */; };
+		9B0EDFCD1B71784100944E58 /* message-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDFCC1B71784100944E58 /* message-7.png */; };
+		9B0EDFCF1B7178CA00944E58 /* emoticon-smile-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDFCE1B7178CA00944E58 /* emoticon-smile-7.png */; };
+		9B0EDFD11B7185EE00944E58 /* camera-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EDFD01B7185EE00944E58 /* camera-7.png */; };
+		9B7CD8471B719D5F00CF89B8 /* main-camera-baijie.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B7CD8451B719D5F00CF89B8 /* main-camera-baijie.png */; };
+		9B7CD8481B719D5F00CF89B8 /* main-camera-baijie@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B7CD8461B719D5F00CF89B8 /* main-camera-baijie@2x.png */; };
+		9B7CD84A1B71AA1800CF89B8 /* search-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B7CD8491B71AA1800CF89B8 /* search-7.png */; };
+		9B7CD84C1B71B2C100CF89B8 /* ItemSearchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7CD84B1B71B2C100CF89B8 /* ItemSearchController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +60,22 @@
 		9B0EDB601B69F08400944E58 /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 		9B0EDB621B6C48E600944E58 /* RestApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestApiManager.swift; sourceTree = "<group>"; };
 		9B0EDB661B6C661E00944E58 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		9B0EDFB01B6EC45000944E58 /* u0_normal_login.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = u0_normal_login.jpg; sourceTree = "<group>"; };
+		9B0EDFB21B6EC84200944E58 /* u1_normal_login_input.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = u1_normal_login_input.png; sourceTree = "<group>"; };
+		9B0EDFB41B6EC93100944E58 /* u0_normal_signup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = u0_normal_signup.png; sourceTree = "<group>"; };
+		9B0EDFB61B6EE56900944E58 /* CountryPickerController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryPickerController.swift; sourceTree = "<group>"; };
+		9B0EDFB81B6F47F800944E58 /* LoginMainController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginMainController.swift; sourceTree = "<group>"; };
+		9B0EDFBC1B7169DE00944E58 /* MainTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
+		9B0EDFC61B71752900944E58 /* u3_normal main_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "u3_normal main_icon.png"; sourceTree = "<group>"; };
+		9B0EDFC81B71779200944E58 /* home-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "home-7.png"; sourceTree = "<group>"; };
+		9B0EDFCA1B7177F800944E58 /* crown-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "crown-7.png"; sourceTree = "<group>"; };
+		9B0EDFCC1B71784100944E58 /* message-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "message-7.png"; sourceTree = "<group>"; };
+		9B0EDFCE1B7178CA00944E58 /* emoticon-smile-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "emoticon-smile-7.png"; sourceTree = "<group>"; };
+		9B0EDFD01B7185EE00944E58 /* camera-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "camera-7.png"; sourceTree = "<group>"; };
+		9B7CD8451B719D5F00CF89B8 /* main-camera-baijie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main-camera-baijie.png"; sourceTree = "<group>"; };
+		9B7CD8461B719D5F00CF89B8 /* main-camera-baijie@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main-camera-baijie@2x.png"; sourceTree = "<group>"; };
+		9B7CD8491B71AA1800CF89B8 /* search-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "search-7.png"; sourceTree = "<group>"; };
+		9B7CD84B1B71B2C100CF89B8 /* ItemSearchController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemSearchController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +99,7 @@
 		9B0EDB301B69BD7000944E58 = {
 			isa = PBXGroup;
 			children = (
+				9B0EDFAF1B6EC45000944E58 /* baijie_image */,
 				9B0EDB3B1B69BD7000944E58 /* BaijieApp */,
 				9B0EDB511B69BD7000944E58 /* BaijieAppTests */,
 				9B0EDB3A1B69BD7000944E58 /* Products */,
@@ -95,6 +128,10 @@
 				9B0EDB5E1B69E02900944E58 /* LoginViewController.swift */,
 				9B0EDB601B69F08400944E58 /* SignupViewController.swift */,
 				9B0EDB621B6C48E600944E58 /* RestApiManager.swift */,
+				9B0EDFB61B6EE56900944E58 /* CountryPickerController.swift */,
+				9B0EDFB81B6F47F800944E58 /* LoginMainController.swift */,
+				9B0EDFBC1B7169DE00944E58 /* MainTabBarController.swift */,
+				9B7CD84B1B71B2C100CF89B8 /* ItemSearchController.swift */,
 			);
 			path = BaijieApp;
 			sourceTree = "<group>";
@@ -122,6 +159,25 @@
 				9B0EDB531B69BD7000944E58 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9B0EDFAF1B6EC45000944E58 /* baijie_image */ = {
+			isa = PBXGroup;
+			children = (
+				9B7CD8451B719D5F00CF89B8 /* main-camera-baijie.png */,
+				9B7CD8491B71AA1800CF89B8 /* search-7.png */,
+				9B7CD8461B719D5F00CF89B8 /* main-camera-baijie@2x.png */,
+				9B0EDFC61B71752900944E58 /* u3_normal main_icon.png */,
+				9B0EDFD01B7185EE00944E58 /* camera-7.png */,
+				9B0EDFCC1B71784100944E58 /* message-7.png */,
+				9B0EDFCE1B7178CA00944E58 /* emoticon-smile-7.png */,
+				9B0EDFCA1B7177F800944E58 /* crown-7.png */,
+				9B0EDFC81B71779200944E58 /* home-7.png */,
+				9B0EDFB41B6EC93100944E58 /* u0_normal_signup.png */,
+				9B0EDFB21B6EC84200944E58 /* u1_normal_login_input.png */,
+				9B0EDFB01B6EC45000944E58 /* u0_normal_login.jpg */,
+			);
+			path = baijie_image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -204,9 +260,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B0EDFC91B71779200944E58 /* home-7.png in Resources */,
+				9B7CD84A1B71AA1800CF89B8 /* search-7.png in Resources */,
+				9B0EDFCB1B7177F800944E58 /* crown-7.png in Resources */,
 				9B0EDB441B69BD7000944E58 /* Main.storyboard in Resources */,
+				9B0EDFCD1B71784100944E58 /* message-7.png in Resources */,
+				9B7CD8471B719D5F00CF89B8 /* main-camera-baijie.png in Resources */,
 				9B0EDB491B69BD7000944E58 /* LaunchScreen.xib in Resources */,
 				9B0EDB461B69BD7000944E58 /* Images.xcassets in Resources */,
+				9B0EDFB11B6EC45000944E58 /* u0_normal_login.jpg in Resources */,
+				9B7CD8481B719D5F00CF89B8 /* main-camera-baijie@2x.png in Resources */,
+				9B0EDFD11B7185EE00944E58 /* camera-7.png in Resources */,
+				9B0EDFCF1B7178CA00944E58 /* emoticon-smile-7.png in Resources */,
+				9B0EDFB31B6EC84200944E58 /* u1_normal_login_input.png in Resources */,
+				9B0EDFB51B6EC93100944E58 /* u0_normal_signup.png in Resources */,
+				9B0EDFC71B71752900944E58 /* u3_normal main_icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -224,11 +292,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B7CD84C1B71B2C100CF89B8 /* ItemSearchController.swift in Sources */,
 				9B0EDB5F1B69E02900944E58 /* LoginViewController.swift in Sources */,
 				9B0EDB411B69BD7000944E58 /* ViewController.swift in Sources */,
+				9B0EDFBD1B7169DE00944E58 /* MainTabBarController.swift in Sources */,
 				9B0EDB611B69F08400944E58 /* SignupViewController.swift in Sources */,
 				9B0EDB671B6C661E00944E58 /* SwiftyJSON.swift in Sources */,
+				9B0EDFB71B6EE56900944E58 /* CountryPickerController.swift in Sources */,
 				9B0EDB631B6C48E600944E58 /* RestApiManager.swift in Sources */,
+				9B0EDFB91B6F47F800944E58 /* LoginMainController.swift in Sources */,
 				9B0EDB3F1B69BD7000944E58 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

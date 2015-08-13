@@ -1,0 +1,681 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#u0 {
+    position:absolute;
+    left:0px;
+    top:75px;
+    width:376px;
+    height:1428px;
+    overflow:hidden;
+}
+
+#pd0u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:376px;
+    height:1428px;
+    
+}
+
+.u1_container {
+    position:absolute;
+    left:1px;
+    top:135px;
+    width:375px;
+    height:1319px;
+}
+
+#u1_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:1319px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:652px;
+    width:371px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../败姐圈_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:1px;
+    top:649px;
+    width:375px;
+    height:45px;
+}
+
+#u3_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:45px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:371px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u5 {
+    position:absolute;
+    left:1px;
+    top:27px;
+    width:835px;
+    height:99px;
+    overflow:hidden;
+}
+
+#pd0u5 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:835px;
+    height:99px;
+    
+}
+
+.u6_normal {
+    background-image: url('../败姐圈_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:-3px;
+    top:0px;
+    width:826px;
+    height:94px;
+}
+
+#u6_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:826px;
+    height:94px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:822px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u8 {
+    position:absolute;
+    left:1px;
+    top:195px;
+    width:375px;
+    height:456px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u9 {
+    position:absolute;
+    left:15px;
+    top:135px;
+    width:173px;
+    height:60px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u10 {
+    position:absolute;
+    left:291px;
+    top:145px;
+    width:68px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u11 {
+    position:absolute;
+    left:291px;
+    top:149px;
+    width:75px;
+    height:43px;
+    overflow:hidden;
+}
+
+#pd0u11 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:75px;
+    height:43px;
+    
+}
+
+.u12_normal {
+    background-image: url('../败姐圈_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:33px;
+}
+
+#u12_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:33px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u14 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u15 {
+    position:absolute;
+    left:15px;
+    top:661px;
+    width:97px;
+    height:27px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u16 {
+    position:absolute;
+    left:277px;
+    top:661px;
+    width:99px;
+    height:27px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u17_normal {
+    background-image: url('../败姐圈_files/u3_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:1px;
+    top:1216px;
+    width:375px;
+    height:45px;
+}
+
+#u17_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:45px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:371px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u19 {
+    position:absolute;
+    left:1px;
+    top:27px;
+    width:375px;
+    height:98px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u20_normal {
+    background-image: url('../败姐圈_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:31px;
+}
+
+#u20_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:31px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:371px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u22 {
+    position:absolute;
+    left:0px;
+    top:1225px;
+    width:97px;
+    height:27px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u23 {
+    position:absolute;
+    left:262px;
+    top:1225px;
+    width:99px;
+    height:27px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u24_normal {
+    background-image: url('../败姐圈_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:0px;
+    top:587px;
+    width:375px;
+    height:80px;
+}
+
+#u24_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:80px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:371px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u26 {
+    position:absolute;
+    left:203px;
+    top:24px;
+    width:63px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u27 {
+    position:absolute;
+    left:0px;
+    top:274px;
+    width:376px;
+    height:339px;
+    overflow:hidden;
+}
+
+#pd0u27 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:376px;
+    height:339px;
+    
+}
+
+.u28_container {
+    position:absolute;
+    left:0px;
+    top:-272px;
+    width:375px;
+    height:667px;
+}
+
+#u28_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:667px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:326px;
+    width:371px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u30 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:344px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u31 {
+    position:absolute;
+    left:89px;
+    top:617px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u32 {
+    position:absolute;
+    left:15px;
+    top:617px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u33 {
+    position:absolute;
+    left:162px;
+    top:592px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u34 {
+    position:absolute;
+    left:235px;
+    top:610px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u35 {
+    position:absolute;
+    left:309px;
+    top:610px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u36 {
+    position:absolute;
+    left:401px;
+    top:221px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u37 {
+    position:absolute;
+    left:0px;
+    top:75px;
+    width:370px;
+    height:543px;
+    overflow:hidden;
+}
+
+#pd0u37 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:370px;
+    height:543px;
+    
+}
+
+.u38_normal {
+    background-image: url('../败姐圈_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:107px;
+    top:257px;
+    width:153px;
+    height:53px;
+}
+
+#u38_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:153px;
+    height:53px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:149px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u40 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:667px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u41_normal {
+    background-image: url('../败姐圈_files/u41_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:75px;
+}
+
+#u41_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:75px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:371px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

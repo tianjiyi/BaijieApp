@@ -1,0 +1,172 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:667px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:667px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:326px;
+    width:371px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u2 {
+    position:absolute;
+    left:0px;
+    top:18px;
+    width:55px;
+    height:58px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u3 {
+    position:absolute;
+    left:307px;
+    top:18px;
+    width:55px;
+    height:58px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u4 {
+    position:absolute;
+    left:432px;
+    top:242px;
+    width:150px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u5 {
+    position:absolute;
+    left:11px;
+    top:86px;
+    width:351px;
+    height:581px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u6 {
+    position:absolute;
+    left:88px;
+    top:259px;
+    width:201px;
+    height:201px;
+    overflow:hidden;
+}
+
+#pd0u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:201px;
+    height:201px;
+    
+}
+
+.u7_normal {
+    background-image: url('../愿望清单_-_编辑_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:0px;
+    top:46px;
+    width:201px;
+    height:79px;
+}
+
+#u7_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:201px;
+    height:79px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:197px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u9 {
+    position:absolute;
+    left:0px;
+    top:84px;
+    width:201px;
+    height:41px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+

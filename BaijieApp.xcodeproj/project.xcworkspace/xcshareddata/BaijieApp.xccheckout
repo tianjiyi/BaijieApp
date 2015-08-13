@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>D53EBB14-ACB5-496B-97AE-F78B5C660BA6</string>
 	<key>IDESourceControlProjectName</key>
-	<string>BaijieApp</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>7E6FE7963D90787AD6AE6F539B8D104BDBF12E6D</key>
 		<string>https://github.com/tianjiyi/BaijieApp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>BaijieApp.xcodeproj</string>
+	<string>BaijieApp.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>7E6FE7963D90787AD6AE6F539B8D104BDBF12E6D</key>
